@@ -1,1 +1,1 @@
-Print absolute pathway of current dir
+listing a file in a directory
